@@ -1,110 +1,67 @@
-# 🧠 Exercise #001:
+AUN ESTA EN FASE DE BORRADOR
 
-**Main benefits:** This task forces learners to infer information and helps them practice real listening or reading comprehension, not just literal scanning or superficial understanding. It consists of a basic structure, a recommended inference type per item, and examples for each English level.
+Introduccion 
+ incluir la teoria 1 porque me estanque, para que quiero aprender, forma autonoma
 
----
+Diagnostico
+La primera fase consistio en realizar un diagnostico de mi nivel aproximado de ingles actual, para ello he utilizado herramientas en linea para obtener un puntaje aproximado a la realidad que sera de vital utilidad. A continuacion la lista y analisis de las plataformas que me ha recomendado chatgpt y grok3
 
-### 🔖 Structure  
-**paragraph + inference question + answers**
+* Analisis
+1- cambridgeenglish.org: Permite hacer un diagnostico rapido de 15 minutos noes muy precisa pero es facil y practica, permite evaluar comprension lectora y no incluye evaluaciones mas profundas como microfono abierto y ejercicios mas avanzados el resultado que obtuve fue un puntaje de 10- 25 lo equivalente a un A2 esta prueba esta alineado con la CEFR
 
----
+2- efset.org Permite realizar un exaustivo diagnostico que por el momento incluye un examen de 90 minutos que fue el que realize y otro de 50 minutos llamado prueba de comprension y tambien una prueba rapida parecida a cambrige de 15 minutos, se obtuve un diagnostico completo y desglosado una calificacion en cada area el resultado de la prueba estara en otra carpeta 
 
-### 🧩 Inference Types Table
+3.  Test-English.com Permite realizar una prueba de duracion media alrededor de 40min, es un cuestionario simple de opcion multiple a diferencia de los demas al final del test te da una puntuacion general y te permite ver los errores y te da la respuesta que era correcta cosa que los demas ocultan o no es visible para el usuario, como pros pues con esto puedes ver que tipo de oracion o tener mas material para repasar de un error especifico, una prueba que consiste en 60 incisos y mi puntaje fue de 29-60 osea 31 mal
 
-| Level | Suggested Inference Type                      |
-|-------|-----------------------------------------------|
-| A1    | Routine / Frequency / Preference              |
-| A2    | Comparison / Simple Cause                     |
-| B1    | Routine Change / Probable Result              |
-| B2    | Complex Preferences / Contradiction           |
-| C1    | Intention / Implicit Dissatisfaction          |
-| C2    | Irony / Doubt / Inner Conflict                |
 
----
 
-### 🧪 Individual Examples
 
----
+borrador ideas
 
-🟦 **A1 - Paragraph:**  
-Maria wakes up at 6 a.m. She eats breakfast and goes to school at 7.
+1 romper el limite conciente del nivel de ingles. He estado en contacto frecuente con el idioma ingles sobre todo para temas de programacion ciencia etc especialmente enfocado solamente en writing y reading por el entorno, pero mi sensacion esque desde hace algunos anos no he tenido un avanze real del ingles y me he estancado porque asumo lo que leo y obtengo un masomenos de forma empirica pero rara vez me centro conscientemente en abstraer y entender de forma exacta o precisa algun texto o video con audio, entonces el no darle forma y estructura y practicarla de manera conciente dificilmente de esa manera no llegare a seguir mejorando en un indicador como estas pruebas de ingles 
 
-**Question:**  
-What does Maria do after breakfast?
+Opinion grok3: Ejemplo: Si lees un artículo de programación en inglés y captas la idea general, pero no te detienes a analizar vocabulario nuevo, estructuras gramaticales o detalles específicos, tu progreso se estanca porque no estás internalizando completamente el idioma. En este punto, el progreso requiere más esfuerzo consciente porque las mejoras ya no son tan automáticas como en los niveles iniciales. Pasar de B2 a C1, por ejemplo, implica un enfoque más profundo en precisión, matices
+Escucha el audio 2-3 veces: primero para entender el contexto, luego para identificar palabras clave, y finalmente para captar detalles.
 
-- ✅ Goes to school  
-- Goes to bed  
-- Watches TV  
 
-**🧠 Inference Type:** Routine
 
----
 
-🟦 **A2 - Paragraph:**  
-Ema always goes to the gym from Monday to Friday. Going early on Mondays and Fridays is great for leg day.
 
-**Question:**  
-How often does Ema work her legs?
 
-- Every day  
-- ✅ Twice a week  
-- Twice a month  
+2 Una teoria personal que quiero comprobar es si hay un efecto cruzado porque tengo inconsistencia en cada area , lo mas viable seria empezar a practica el listening por ser el mas bajo, aunque lo que quiero comprobar es si le doy la misma prioridad al reading o writing indirectamente va influenciar y mejorarar el listening y speaking
 
-**🧠 Inference Type:** Simple Cause
+listening a1 y speaking b1 reading b2 writing b2
 
----
 
-🟦 **B1 - Paragraph:**  
-Lucas usually goes running after work, around 6 PM. Weekends are the only time he runs in the morning. He prefers outdoor running when the weather is nice.
+ * Opinion grok 3: Tu teoría tiene mérito, pero para que funcione, necesitas combinar la práctica de reading y writing con algo de práctica directa en listening y speaking. Darle prioridad al listening (por ser el más bajo) es una buena estrategia, pero integrar las otras habilidades puede potenciar tu progreso general.
 
-**Question:**  
-When does Lucas most often go running?
 
-- In the morning  
-- ✅ In the evening  
-- During lunch  
 
-**🧠 Inference Type:** Routine Change
+En la practica listening tengo Lisa walks her dog every morning on weekends she also takes it to the beach.
 
----
+staithtforward
+raincoat
 
-🟦 **B2 – Upper-Intermediate - Paragraph:**  
-Julia studies every evening, but she avoids studying right after school because she finds it hard to focus. She prefers to relax for an hour first.
+he uses it as a walking stick
 
-**Question:**  
-Why doesn’t Julia study immediately after school?
+give it a shot
 
-- She has no homework  
-- ✅ She needs time to relax  
-- She goes to work  
 
-**🧠 Inference Type:** Contradiction
 
----
 
-🟦 **C1 – Advanced - Paragraph:**  
-Although Mark enjoys his job, he sometimes feels unfulfilled. He’s considering taking evening classes to develop new skills and explore other interests.
+yep you nailed it
 
-**Question:**  
-What might be one reason Mark wants to take evening classes?
+sara checks her phone right before bed if she hears a beep she repplies to messages
+aqui he captado de forma general que ella esta al pendiente del telefono antes de ir a lacama o a la espera de mensajes
 
-- To get promoted at work  
-- ✅ To feel more fulfilled  
-- To meet new people  
 
-**🧠 Inference Type:** Intention / Implicit Dissatisfaction
 
----
 
-🟦 **C2 – Mastery - Paragraph:**  
-Despite achieving great success in her career, Laura feels a persistent sense of restlessness. She travels often, not for leisure, but in search of something she can't quite define.  
 
-**Question:**  
-What is Laura most likely searching for through travel?
 
-- Relaxation  
-- ✅ A deeper sense of purpose  
-- New job opportunities  
 
-**🧠 Inference Type:** Inner Conflict
+
+
+
+
 
