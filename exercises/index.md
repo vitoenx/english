@@ -107,3 +107,10 @@ What is Laura most likely searching for through travel?
 - New job opportunities  
 
 **🧠 Inference Type:** Inner Conflict
+
+
+# 003 Exercise
+Nombre del ejercicio: Transcripción Activa de Inmersión en Inglés
+Descripción: Este ejercicio consiste en escuchar un video o podcast en inglés sin subtítulos, transcribir lo que entiendas en tiempo real (o pausando si es necesario), y usar marcadores (como asteriscos o guiones) para señalar palabras o frases que no captes. Luego, comparas tu transcripción con la transcripción oficial (o una generada por herramientas como YouTube o NoteGPT) para identificar errores, analizar dificultades y mejorar tus habilidades de escucha. El objetivo es entrenar el oído para reconocer el habla nativa, incluyendo vocabulario, acentos, velocidad e informalidades, mientras desarrollas confianza en contextos reales.
+
+

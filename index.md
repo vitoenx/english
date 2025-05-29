@@ -61,9 +61,170 @@ Tus hipótesis encajan perfectamente con el concepto de Clear de que los hábito
 La inteligencia artificial, por sí sola, no siempre proporciona un contexto que abarque todas las dimensiones de un tema. En mi experiencia, un formato de texto extenso, como un libro, documentación oficial, un manual o un documental audiovisual por citar algunas variantes, permite construir un marco de referencia sólido que ofrece una visión holística del tema. Este enfoque fomenta una comprensión profunda en desfragmentar en sus componentes más fundamentales. Por ejemplo, en la fotosíntesis, un marco de referencia holístico no solo describe la necesidad de luz solar, sino que descompone el proceso hasta sus niveles fundamentales, como las interacciones de partículas subatómicas, incluidos quarks, en las moléculas de clorofila. De manera similar, para aprender inglés, requiero un marco de referencia que integre sus elementos esenciales —gramática, fonética y contexto cultural— y que incorpore la experiencia y las perspectivas de la comunidad, como las compartidas en foros o plataformas, para lograr una comprensión integral.
 
 
-yesterday i painted my room 
-yesterday i call my friend
-yesterday i bake cookies
+
+
+
+
+
+###Uso del recurso IPA
+
+Es una herramienta clave para tema de pronunciacion y tambien para listening, te dice como mover tu lengua, boca y labios exactamente para producir los sonidos, de la misma forma que ayuda a entrenar el oido para distinguirlos de manera precisa.
+
+### ✅ Diferencia entre **V** y **B**
+
+- En inglés, **/v/** y **/b/** son sonidos muy distintos, aunque en español suenan casi igual.
+- **/v/** = **fricativa labiodental sonora** → se produce colocando los dientes superiores sobre el labio inferior **y dejando pasar aire con vibración**.
+- **/b/** = **oclusiva bilabial sonora** → se produce cerrando ambos labios y haciendo una explosión suave de aire, **sin fricción**.
+
+| Letra | IPA | Ejemplo   | Palabra     | Descripción                         |
+|-------|-----|-----------|-------------|-------------------------------------|
+| V     | /v/ | /voɪst/   | voice       | vibración en los dientes y labios  |
+| B     | /b/ | /boʊt/    | boat        | labios juntos, sin fricción         |
+
+> 🧠 Tip: Practica diciendo **"fuh... vuh..."** para notar la vibración de /v/  
+> Si dices /v/ como /b/, un hablante nativo podría no entenderte.
+
+---
+
+### ✅ Diferencias entre **TH = /θ/**, **TH = /ð/**, y **T = /t/**
+
+#### 1. **/θ/** → *"TH" suave (sin voz)*
+
+- Se pronuncia sacando un poco la lengua entre los dientes y soltando aire **sin vibración**.
+- Ejemplo:  
+  - **think** → /θɪŋk/
+  - **bath** → /bæθ/
+
+#### 2. **/ð/** → *"TH" sonora (con voz)*
+
+- Mismo lugar que /θ/, pero ahora **con vibración**.
+- Ejemplo:
+  - **this** → /ðɪs/
+  - **mother** → /ˈmʌðəɹ/
+
+> 🧠 Tip: Di "zz" como abeja 🐝 y mueve la lengua hacia adelante para producir /ð/.
+
+#### 3. **/t/** → *"T" normal*
+
+- Se pronuncia como una "t" clara y rápida, sin sacar la lengua.
+- Ejemplo:
+  - **top** → /tɑp/
+  - **fat** → /fæt/
+
+## 🌐 Recursos clave para fortalecer pronunciación y listening en inglés
+
+Aquí tienes una lista de herramientas confiables para practicar pronunciación, escuchar ejemplos reales, y entender mejor el IPA:
+
+### 📘 1. [Cambridge Dictionary](https://dictionary.cambridge.org/)
+- 📌 ¿Para qué sirve?  
+  - Ver la **transcripción IPA** de cada palabra (inglés británico y americano).
+  - Escuchar su pronunciación con audio nativo.
+  - Ver ejemplos de uso en contexto.
+
+---
+
+### 🔊 2. [YouGlish](https://youglish.com/)
+- 📌 ¿Para qué sirve?  
+  - Escuchar **miles de ejemplos reales** en videos de YouTube con subtítulos sincronizados.
+  - Puedes buscar cualquier palabra y ver cómo la usan hablantes nativos.
+  - Ideal para diferenciar acentos y velocidades de habla.
+
+---
+
+### 🗣️ 3. [Forvo](https://forvo.com/)
+- 📌 ¿Para qué sirve?  
+  - Escuchar pronunciaciones de palabras grabadas por **hablantes nativos de todo el mundo**.
+  - Puedes comparar cómo suena una palabra en diferentes acentos.
+
+---
+
+### 🎧 4. [Google Translate (con voz)](https://translate.google.com/)
+- 📌 ¿Para qué sirve?  
+  - Rápido para escuchar la pronunciación de una palabra o frase completa.
+  - No es tan preciso como Cambridge, pero útil para frases cortas.
+
+---
+
+### 📈 5. [IPA Chart (Interactive)](https://www.ipachart.com/)
+- 📌 ¿Para qué sirve?  
+  - Escuchar cada símbolo del **IPA interactivo**.
+  - Ideal para familiarizarte con los sonidos del inglés uno por uno.
+
+---
+
+### 📚 6. [English Pronunciation IPA Guide (Rachel's English)](https://rachelsenglish.com/ipa/)
+- 📌 ¿Para qué sirve?  
+  - Guía con videos y explicaciones de cada sonido del IPA en inglés.
+  - Muy útil si eres visual y quieres ver cómo se mueve la boca y la lengua.
+
+---
+
+> 💡 Consejo: guarda estos sitios en favoritos y úsalos como referencia diaria. Escuchar, repetir, y comparar es la clave para avanzar rápido.
+
+
+
+
+### ✅ Vocales (Vowels)
+
+| Símbolo | Ejemplo        | Palabra         | Sonido aproximado |
+|---------|----------------|------------------|-------------------|
+| /iː/    | long "ee"      | seat, be         | como "ii" larga   |
+| /ɪ/     | short "i"      | sit, bit         | "i" breve         |
+| /e/     | short "e"      | set, bed         | entre "e" y "a"   |
+| /æ/     | short "a"      | cat, bat         | como "a" abierta  |
+| /ɑː/    | long "a"       | car, father      | como "a" larga    |
+| /ɒ/     | short "o"      | hot (UK)         | como "o" corta    |
+| /ɔː/    | long "aw"      | law, caught      | como "o" larga y redonda |
+| /ʊ/     | short "u"      | put, foot        | "u" cerrada       |
+| /uː/    | long "oo"      | food, true       | "uu" larga        |
+| /ʌ/     | stressed "uh"  | cup, luck        | como "a" neutra   |
+| /ə/     | schwa          | about, banana    | sonido neutro     |
+
+---
+
+### ✅ Diptongos (Diphthongs)
+
+| Símbolo | Ejemplo        | Palabra         | Sonido aproximado |
+|---------|----------------|------------------|-------------------|
+| /eɪ/    | "ay" sound     | say, day         | ei                 |
+| /aɪ/    | "eye" sound    | my, try          | ai                 |
+| /ɔɪ/    | "oy" sound     | boy, coin        | oi                 |
+| /aʊ/    | "ow" sound     | now, how         | au                 |
+| /əʊ/    | "oh" sound (UK)| no, go           | ou                 |
+| /ɪə/    | (UK)           | ear, idea        | ia                 |
+| /eə/    | (UK)           | hair, care       | ea                 |
+| /ʊə/    | (UK)           | tour, pure       | ua                 |
+
+---
+
+### ✅ Consonantes (Consonants)
+
+| Símbolo | Ejemplo        | Palabra         | Descripción            |
+|---------|----------------|------------------|------------------------|
+| /p/     | p              | pen              | oclusiva sorda         |
+| /b/     | b              | big              | oclusiva sonora        |
+| /t/     | t              | top              | oclusiva sorda         |
+| /d/     | d              | dog              | oclusiva sonora        |
+| /k/     | k              | cat              | oclusiva sorda         |
+| /ɡ/     | g              | go               | oclusiva sonora        |
+| /f/     | f              | fun              | fricativa sorda        |
+| /v/     | v              | voice            | fricativa sonora       |
+| /θ/     | th (soft)      | think            | fricativa dental sorda |
+| /ð/     | th (voiced)    | this             | fricativa dental sonora|
+| /s/     | s              | see              | fricativa sorda        |
+| /z/     | z              | zoo              | fricativa sonora       |
+| /ʃ/     | sh             | she              | fricativa sorda        |
+| /ʒ/     | s (in "vision")| measure          | fricativa sonora       |
+| /h/     | h              | hat              | fricativa glotal       |
+| /tʃ/    | ch             | check            | africada sorda         |
+| /dʒ/    | j              | judge            | africada sonora        |
+| /m/     | m              | man              | nasal                  |
+| /n/     | n              | now              | nasal                  |
+| /ŋ/     | ng             | sing             | nasal velar            |
+| /l/     | l              | leg              | lateral                |
+| /r/     | r              | red              | aproximante            |
+| /w/     | w              | win              | semivocal              |
+| /j/     | y              | yes              | semivocal              |
 
 
 
@@ -71,22 +232,6 @@ yesterday i bake cookies
 
 
 
-En la practica listening tengo Lisa walks her dog every morning on weekends she also takes it to the beach.
-
-staithtforward
-raincoat
-
-he uses it as a walking stick
-
-give it a shot
-
-
-
-
-yep you nailed it
-
-sara checks her phone right before bed if she hears a beep she repplies to messages
-aqui he captado de forma general que ella esta al pendiente del telefono antes de ir a lacama o a la espera de mensajes
 
 
 
@@ -95,7 +240,177 @@ aqui he captado de forma general que ella esta al pendiente del telefono antes d
 
 
 
+Notas del libro bluemurphy
+
+Al principio del Blue Murphy, hay unas preguntas pequeñas pero muy importantes para evaluar nuestro nivel de inglés y entender qué temas necesitamos repasar. Estas preguntas nos ayudan a identificar dudas comunes en gramática. A continuación, mis notas sobre cada una, con explicaciones claras y ejemplos prácticos. 
+
+Piensa en I did (Past Simple) como algo que ya quedó atrás y no afecta el presente, mientras que I have done (Present Perfect) conecta el pasado con el ahora. Por ejemplo, si digo I have done my homework, significa que ya terminé y ahora estoy libre para otras actividades.
+
+¿Cuándo usamos will para el futuro? 
+
+Se usa will para el futuro especialmente para hacer predicciones o suposiciones y no hay evidencia, decisiones espontaneas en el momento de hablar e.g I'll help you with your homework right now o promesas como I'll call you tomorrow I promise
+
+
+La estructura de I wish para cada tiempo 
+I wish se usa para expresar deseos sobre cosas que no son reales. La estructura cambia según el tiempo:  
+Presente: I wish + Past Simple → I wish I knew the answer. (Desearía saber la respuesta ahora).  
+
+Pasado: I wish + Past Perfect → I wish I had known the answer. (Desearía haber sabido la respuesta).  
+
+Futuro o quejas: I wish + would → I wish it would stop raining. (Desearía que dejara de llover).
+Truco: Siempre usa un tiempo pasado después de I wish porque es hipotético. Practica con tus propios deseos: uno para el presente, uno para el pasado y uno para el futuro.
 
 
 
+
+Cuando utilizar used to do y cuando used to doing
+Used to do: Se usa para hablar de hábitos o estados pasados que ya no ocurren.  
+Ejemplo: I used to live in a small town. (Vivía en un pueblo pequeño, pero ya no).  
+
+Estructura: used to + infinitivo.
+
+Used to doing: Se usa para decir que estás acostumbrado a hacer algo en el presente, con el verbo en gerundio.  
+Ejemplo: I’m used to waking up early now. (Estoy acostumbrado a despertarme temprano ahora).  
+
+Estructura: be/get used to + gerundio.
+
+Por ejemplo, I used to play soccer every day (jugaba antes, ya no), pero I’m used to playing soccer in the mornings (ahora estoy acostumbrado a jugar por las mañanas).
+
+
+
+The (artículo definido) se usa cuando:  
+Hablas de algo específico que ambas partes conocen: The book on the table is mine. (Ese libro específico en la mesa).  
+
+Hay solo uno de algo: The sun is bright today. (Solo hay un sol).  
+
+Con nombres geográficos específicos: The Andes are beautiful. (Un lugar específico).
+
+No uses the con plurales generales o conceptos abstractos:  
+Ejemplo: Cats are cute. (Gatos en general, no específicos).  
+
+Ejemplo: Love is important. (Amor en general).
+
+
+¿Cuál es la diferencia entre like y as?   
+Like: Compara similitudes con un sustantivo (no lleva verbo después).  
+Ejemplo: She sings like a bird. (Canta como un pájaro).
+
+As: Describe roles o compara acciones (puede llevar un verbo después).  
+Ejemplo: He works as a doctor. (Trabaja como doctor) o Do it as I told you. (Hazlo como te dije).
+Errores comunes: No uses like con una oración completa ( like I told you → as I told you).
+Truco para recordar:
+
+Like = “se parece a” (sustantivo): like a bird, like my sister.  
+
+As = rol o manera: as a doctor, as I do.
+
+
+# 📘 Notas del libro *Blue Murphy* (English Grammar in Use)
+
+Al inicio del libro, se presentan pequeñas preguntas clave que ayudan a identificar nuestro nivel de inglés y detectar dudas comunes en gramática. A continuación, encontrarás un resumen con explicaciones claras y ejemplos prácticos.
+
+---
+
+## ✅ Past Simple vs. Present Perfect
+
+**🕒 I did (Past Simple):**  
+Acciones completamente terminadas en el pasado, sin conexión con el presente.  
+Ejemplo:  
+- *I did my homework yesterday.* (Lo hice y ya no tiene efecto ahora)
+
+**🔗 I have done (Present Perfect):**  
+Acciones pasadas con relevancia o efecto en el presente.  
+Ejemplo:  
+- *I have done my homework.* (Ya la terminé y ahora estoy libre)
+
+---
+
+## 🔮 ¿Cuándo usamos *will* para el futuro?
+
+**Usos de *will*:**
+- 📍 Predicciones sin evidencia:  
+  *I think it will rain tomorrow.*
+- ⚡ Decisiones espontáneas:  
+  *I’ll help you with that!*
+- 🤝 Promesas:  
+  *I’ll call you tomorrow. I promise.*
+
+---
+
+## 🙏 Estructura de *I wish*
+
+**Deseos sobre situaciones irreales o hipotéticas.**
+
+| Tiempo | Estructura | Ejemplo |
+|--------|------------|---------|
+| Presente | *I wish + Past Simple* | *I wish I knew the answer.* |
+| Pasado | *I wish + Past Perfect* | *I wish I had known the answer.* |
+| Futuro / Queja | *I wish + would* | *I wish it would stop raining.* |
+
+🔍 *Truco:* Después de **I wish**, se usa un tiempo pasado porque expresa hipótesis o deseos contrarios a la realidad.
+
+---
+
+## 🔁 *Used to do* vs. *Be used to doing*
+
+**🕰️ Used to do:**  
+Hábito o estado del pasado que ya no ocurre.  
+- *I used to live in a small town.*
+
+**⚙️ Be used to doing:**  
+Estás acostumbrado a hacer algo actualmente.  
+- *I’m used to waking up early now.*
+
+**🧠 Estructuras clave:**
+- *used to + infinitivo*
+- *be/get used to + gerundio*
+
+---
+
+## 🔎 Uso de *The* (artículo definido)
+
+**Se usa cuando:**
+- Ambas partes conocen el objeto:  
+  *The book on the table is mine.*
+- Solo hay uno:  
+  *The sun is bright today.*
+- Nombres geográficos específicos:  
+  *The Andes are beautiful.*
+
+**No se usa con:**
+- Plurales generales:  
+  *Cats are cute.*
+- Conceptos abstractos:  
+  *Love is important.*
+
+---
+
+## 🤔 Diferencia entre *like* y *as*
+
+| Palabra | Uso | Ejemplo |
+|--------|-----|---------|
+| *Like* | Comparación con sustantivo (sin verbo) | *She sings like a bird.* |
+| *As* | Función o comparación con verbo | *He works as a doctor.* / *Do it as I told you.* |
+
+🚫 Error común:  
+❌ *like I told you*  
+✅ *as I told you*
+
+**🎯 Truco:**
+- *Like* → “se parece a” (sustantivo): *like a bird, like my brother*
+- *As* → “como” rol o manera: *as a doctor, as I said*
+
+---
+
+## 🔗 Recursos adicionales recomendados
+
+- 📚 [Cambridge Dictionary (con pronunciación IPA y ejemplos)](https://dictionary.cambridge.org/)
+- 🔊 [YouGlish (escuchar palabras en contexto)](https://youglish.com/)
+- 🧠 [BBC Learning English](https://www.bbc.co.uk/learningenglish)
+- 🎧 [ESL Lab – Listening & Vocabulary Practice](https://www.esl-lab.com/)
+- 🗣️ [Google Pronunciation Practice](https://www.google.com/search?q=pronounce+word)
+
+---
+
+✍️ *Sugerencia:* Repasa estos puntos con ejemplos propios. Haz mini tests y graba tu voz para practicar las estructuras y pronunciaciones.
 
