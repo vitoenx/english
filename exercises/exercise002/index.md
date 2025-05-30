@@ -1,3 +1,129 @@
+# 📝 Transcription Exercise Report - May 29, 2025 🕕
+
+**Podcast:** [BBC Learning English - The Smell of Coffee](https://www.youtube.com/watch?v=5R3WdBE1-JM&list=PLcetZ6gSk96-MjxxJGeegxQhwif1xNNIf)  
+**Duration:** ~3 minutes
+
+---
+
+## 🧭 Summary  
+🧠 **Estimated comprehension:** ~65%  
+📈 **Approximate CEFR Level:** B1 mid  
+
+You got the general idea, the tone of the dialogue, and key parts like the trivia question and the importance of smell. However, there were omissions and confusion in connectors, set phrases, and grammatical structures.
+
+---
+
+## 🔧 Key Improvement Points
+
+- **“That’s not the question.”**  
+  ➤ Fixed phrase used to redirect or correct a topic. Common in interviews and discussions.
+- **“But I bet it's. ”**
+  ➤“I bet” is a conversational chunk meaning “I guess” or “I’m pretty sure.” Often used to express confident speculation informally.
+  
+- **“We’ll have the answer later in the programme.”**  
+  ➤ Future tense with “will” + time expression. Very typical in media and formal speech.
+
+- **“How important does he say...?”**  
+  ➤ Indirect question with auxiliary verb inserted. Good for practicing layered questions.
+  
+- **“When you get a coffee, do you normally have it there or take it away?”**  
+  ➤ Useful real-life question chunk with options. “Have it there” vs. “take it away” is everyday English for dine-in vs. takeaway—great for practicing polite and functional questions.
+
+
+- **“Wake up and smell the coffee”**  
+  ➤ Idiomatic chunk meaning “face reality.” Common in informal or sarcastic contexts.
+
+- **“Every hour!”**  
+  ➤ Exaggeration for humorous emphasis. Listen for tone and stress to catch the nuance.
+
+- **“It never quite tastes as good as it smells, does it?”**  
+  ➤ Comparison structure (“as...as”) + tag question. Focus on rhythm and rising intonation.
+
+---
+
+## 🎧 Podcast Title: The Smell of Coffee
+
+### 🎙️ My Attempted Transcription
+
+> 6 minutes english from bbc learning english, hello and welcome to six minutes english and I'm Neil and I'm Catherine.  
+> Catherine I'm going to start this program with quick test just with you - I wanna test.  
+> Complete this phrases, wake up and smell this, coffee coffee its coffe.  
+> I have to say I love the coffe bc it's great, yeah, ok so did you drink much?  
+> Well just a couple of cups you know, every day - no no every hour.  
+> I love coffe do you like coffe no? I do maybe not as much as you.  
+> Whats the best think about that - oh its the smell is going to be the smell.  
+> You know when you open the package is great but you never quit taste as good as smell does it.  
+> Well no im disapointing im living hope but another cup i think little better.  
+> I might change brand actually try different one.  
+> You take a cup of coffee have a name. Usually 6 cups.  
+> Well the topic is the smell of coffee is also the subject today question.  
+> The worlds bigges producer of coffe is brazil brazil yes yes but that not the question.  
+> The question is brazil is the biggest coffee producer which is the second largest coffee producer in country?  
+> Is it a colombia b vietnam or c etiopia?  
+> Right is not brazil but i beat could be a sudamerica country therefore colombia is that right?  
+> We have to seen later on the program but which that maybe left your body.  
+> Coffee shop here paid the bbc radio program.  
+> How important does it the smell of coffee is, is absolutely latel is the key thing.  
+> When you walking coffee shop in the morning that smell you kidding no physiscs responses.  
+> So how important is it?  
+> I feel it in the bit comment now in some sentences the smell of coffee is vital.  
+> That means is very important is perhaps the most important think.  
+> So the key is the essential is ready important and he saids when you experiences the smell.  
+> When the smells hits you you get a physiological response.  
+> This freeze your body as a reaction to the smell of coffee perhaps your mouth begins to trains anticipation.  
+> Katherine when you get coffee to normally have inthere or takeaway?  
+> Ok i usually take a wide if im feeling really a needing a coffee hit in my and get another one with me.  
+> Catherine do you describe the container when you have a coffee to go?  
+> Yes is in a tall paper cup with a lit and the lit has a holding so that i can drink lovely coffee.
+
+---
+
+### 🗒️ Original Transcript (BBC)
+
+> **Neil:** Hello. Welcome to 6 Minute English, I'm Neil.  
+> **Catherine:** And I'm Catherine.  
+> **Neil:** Catherine, I'm going to start this programme with a quick test, just for you.  
+> **Catherine:** Ooo, I love tests!  
+> **Neil:** Complete this phrase: Wake up and smell the...  
+> **Catherine:** Coffee Neil! It's coffee. I have to say, I love coffee, it's great.  
+> **Neil:** OK, so do you drink much?  
+> **Catherine:** Well, just a couple of cups, you know.  
+> **Neil:** Every day?  
+> **Catherine:** No, no, every hour! I love coffee, don't you like coffee, Neil?  
+> **Neil:** I do but maybe not as much as you! What's the best thing about it?  
+> **Catherine:** It's the smell. It's got to be the smell. You know, when you open the packet, it's great, isn't it?  
+> **Neil:** Yes, but it never quite tastes as good as it smells, does it?  
+> **Catherine:** Well no, not really. It's always a bit disappointing. I live in hope, another cup, I think it will be better. I might change brands actually and try a different one.  
+> **Neil:** OK, you've had quite a lot of coffee today, haven't you?  
+> **Catherine:** Just the usual six cups.  
+> **Neil:** Well, our topic today is the smell of coffee and coffee is also the subject of today's question.  
+> The world's biggest producer of coffee is...  
+> **Catherine:** Brazil! Brazil!  
+> **Neil:** Yes, yes, but that's not the question.  
+> The question is, Brazil is the biggest coffee producer, which is the second largest coffee producing country?  
+> Is it: a: Colombia, b: Vietnam, c: Ethiopia  
+> **Catherine:** Right, so it's not Brazil but I bet it's another South American country, so I'm going to go for Columbia. Columbia, is that right?  
+> **Neil:** We'll have the answer later in the programme but which time, maybe the caffeine will have left your body, Catherine.  
+> Tim Hayward is a coffee shop owner. He appeared in the BBC Radio 4 programme *The Kitchen Cabinet*.  
+> How important does he say the smell of coffee is?  
+> It's absolutely vital, it's the key thing. When you walk in to the coffee shop in the morning and that smell hits you, you're getting physiological responses.  
+> **Neil:** So how important is it?  
+> **Catherine:** I'm feeling a bit calmer now. Tim Hayward says the smell of coffee is vital.  
+> That means it's very important, it's perhaps the most important thing.  
+> And he backs this up by saying that it's the key thing. Something that's key is essential, it's really important.  
+> **Neil:** And he says that when you experience the smell, when the smell hits you, you get a physiological response.  
+> This phrase means your body has a reaction to the smell of coffee. Perhaps your mouth begins to water in anticipation.  
+> Catherine, when you get a coffee, do you normally have it there or take it away?  
+> **Catherine:** Well, I usually take it away, although if I'm feeling really in need of a coffee hit, I might have one there and then get another one and take with me.  
+> **Neil:** Can you describe the container that you are given when you have a coffee to go?  
+> **Catherine:** Yes, it's in a tall paper cup with a lid. And the lid has a hole in it so that I can drink that lovely coffee.
+
+---
+
+
+
+
+
 # 📝 Reporte del Ejercicio de Transcripción - 26 de Mayo de 2025 🕕
 
 **Ejercicio**: Transcripción Activa de Inmersión en Inglés 🎧  
