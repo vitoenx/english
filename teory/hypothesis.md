@@ -8,6 +8,8 @@ Este documento recoge las principales hipótesis generadas a partir del proceso 
 
 ### 🔍 Planteamiento
 
+Revisión (Junio 27 2025): El "Grammar Sprint" aborda directamente esta hipótesis. La estrategia cambió de una "comprensión aproximada" a un trabajo sistemático en la estructura gramatical como base para romper el estancamiento. La hipótesis está siendo validada activamente.
+
 A pesar de estar expuesto regularmente al inglés (especialmente en lectura y escritura técnica), no ha habido progreso real en pruebas formales ni fluidez funcional. Sospecho que la falta de mejora proviene de una comprensión superficial y empírica del contenido. Sin un trabajo consciente en precisión y estructura, el avance es limitado.
 
 ### 💡 Supuesto
@@ -39,6 +41,7 @@ Existe transferencia entre habilidades si se trabaja con suficiente profundidad 
 
 > Grok 3: "Para que haya efecto cruzado, las habilidades pasivas deben complementarse con práctica activa, aunque sea mínima."
 
+Revisión (Junio 27 2025): Hipótesis pausada. La estrategia actual es fortalecer las bases (gramática) antes de medir el efecto cruzado. Se postula que una base gramatical sólida es un prerrequisito para que ocurra la transferencia de habilidades.
 ---
 
 ## 🔂 H03 – Automatización mediante inmersión emocional
@@ -87,6 +90,7 @@ Para que la IA sea efectiva como tutora, debe integrarse en un ecosistema con ma
 
 - Estudio de libros como *Blue Murphy* con apoyo de IA
 
+Revisión (Junio 27 2025): Hipótesis refinada. Se ha demostrado que la IA puede ser un tutor principal altamente efectivo si se le proporciona un marco de trabajo claro (ej. el temario del 80/20). La limitación no está en la herramienta, sino en usarla sin una estrategia de aprendizaje definida por el estudiante.
 ---
 
 > 📁 Estas hipótesis serán documentadas, probadas y refinadas mediante los registros en `/log/` y los prototipos en ejecución.

@@ -101,3 +101,16 @@ Este enfoque reflexivo-práctico, asistido por inteligencia artificial y anclado
 
 > 📅 *Este marco se irá ampliando a medida que evolucione la investigación. Nuevas referencias teóricas, hallazgos personales y casos relevantes se incorporarán progresivamente.*
 
+---
+
+## 🔄 6. Primer Ciclo Iterativo y Pivote Metodológico 
+
+Junio 27 2025
+
+En línea con el enfoque iterativo y autoetnográfico, el primer ciclo de aplicación práctica (9-27 de junio) reveló un sesgo crítico que obligó a un pivote estratégico. La hipótesis sobre la "ilusión de progreso intelectual", planteada en la sección de reflexividad, se confirmó como el principal obstáculo para el avance.
+
+**Hallazgo Clave:** La tendencia a sobre-planificar y perfeccionar marcos teóricos estaba actuando como una barrera, sustituyendo la práctica lingüística real por una sensación de control sobre el proyecto.
+
+**Acción Correctiva:** Se tomó la decisión de suspender el desarrollo de prototipos complejos y ejecutar un **"Grammar Sprint"**: un ciclo intensivo de 18 días enfocado exclusivamente en construir una base gramatical sólida (principio 80/20) utilizando a Gemini 2.5 Flash como tutor principal para ejercicios guiados y resolución de dudas.
+
+Este pivote representa la primera validación exitosa del método reflexivo: **la observación del propio proceso condujo a un rediseño que prioriza la práctica directa sobre la planificación teórica.** Los detalles de esta iteración y sus resultados se documentan en un nuevo registro; prototypes/grammar/sprint_v1.md
