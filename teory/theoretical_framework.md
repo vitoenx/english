@@ -1,7 +1,17 @@
 # 📚 Marco Teórico
 
-June 07 2025
+> 🗓️ **Nota de actualización – Julio 2025**
 
+Este marco teórico fue redactado en Mayo 2025 como una base conceptual para el diseño y pilotaje del proyecto. Sin embargo, a lo largo del mes de julio se ha producido un cambio metodológico significativo: el enfoque ha pasado de una planificación detallada y basada en prototipos a una práctica directa sostenida con IA y libros como *English Grammar in Use*. 
+
+Este archivo se mantiene como registro valioso de la fase de diseño inicial, pero ya no refleja por completo la práctica actual. La motivación, la constancia y los aprendizajes reales han surgido más de la experiencia cotidiana con ejercicios y retroalimentación que de hipótesis o estructuras teóricas formales.  
+
+➡️ Los hallazgos recientes están siendo documentados en:  
+- `/log/2025-07.md`  
+
+---
+
+June 07 2025
 Este marco teórico representa una primera aproximación conceptual a los fundamentos que sustentan esta investigación. A través de la experiencia autodidacta, la observación personal y el análisis práctico, se ha conformado un conjunto de ideas que guían el diseño, la implementación y la reflexión de cada etapa del proceso de aprendizaje del inglés con apoyo de inteligencia artificial.
 
 ---
